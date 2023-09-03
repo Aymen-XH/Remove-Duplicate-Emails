@@ -23,7 +23,7 @@ This  tool designed to remove duplicate email addresses from a large email list 
 
 4. Enter.
 
-5. Congratulations! Your deduplicated email list is now ready for use! 'listclean.txt' and saved in the same directory.
+5. Congratulations! Your deduplicated email list is now ready for use! `listclean.txt` and saved in the same directory.
 
 ## Note
 
